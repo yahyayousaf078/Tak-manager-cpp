@@ -1,0 +1,19 @@
+# Compiled binary
+task_manager
+task_manager.exe
+*.o
+*.out
+
+# User task data (each project's saved tasks)
+projects/
+
+# Build directories
+build/
+bin/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
